@@ -1,5 +1,8 @@
 # Algorithm_starter
 
+![image](https://github.com/user-attachments/assets/2c581ce4-3d5c-45e6-a629-56311bc17638)
+
+
 # 🚀 Algorithm Starter：推荐 × 搜索 × LLM
 
 欢迎来到《算法起点计划》！这是一个为初学者准备的 AI 三大核心方向入门项目：
